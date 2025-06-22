@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\views\\shared\\components\\_adminnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:views\\shared\\components\\_adminnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\views\\admincontact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:views\\admincontact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\wwwroot\\admintemplate\\src\\assets\\js\\off-canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:wwwroot\\admintemplate\\src\\assets\\js\\off-canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\views\\shared\\components\\_adminscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:views\\shared\\components\\_adminscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\views\\shared\\components\\_adminsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:views\\shared\\components\\_adminsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|c:\\users\\buse\\source\\repos\\archinestcoremvcproject\\wwwroot\\admintemplate\\src\\pages\\icons\\mdi.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{434C5498-76B2-4111-9BF4-8CF9A52FEEF5}|ArchiNestCoreMVCProject.csproj|solutionrelative:wwwroot\\admintemplate\\src\\pages\\icons\\mdi.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "off-canvas.js",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\wwwroot\\AdminTemplate\\src\\assets\\js\\off-canvas.js",
+              "RelativeDocumentMoniker": "wwwroot\\AdminTemplate\\src\\assets\\js\\off-canvas.js",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\wwwroot\\AdminTemplate\\src\\assets\\js\\off-canvas.js",
+              "RelativeToolTip": "wwwroot\\AdminTemplate\\src\\assets\\js\\off-canvas.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-22T21:45:09.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\Shared\\Components\\_AdminNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_AdminNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\Shared\\Components\\_AdminNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_AdminNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T21:26:17.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T21:25:59.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mdi.html",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\wwwroot\\AdminTemplate\\src\\pages\\icons\\mdi.html",
+              "RelativeDocumentMoniker": "wwwroot\\AdminTemplate\\src\\pages\\icons\\mdi.html",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\wwwroot\\AdminTemplate\\src\\pages\\icons\\mdi.html",
+              "RelativeToolTip": "wwwroot\\AdminTemplate\\src\\pages\\icons\\mdi.html",
+              "ViewState": "AgIAALsPAAAAAAAAAAAewNIPAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-22T21:05:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\AdminContact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminContact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\AdminContact\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminContact\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:59:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\Shared\\Components\\_AdminSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_AdminSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\Shared\\Components\\_AdminSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_AdminSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:56:12.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\Shared\\Components\\_AdminScriptComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_AdminScriptComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\ArchiNestCoreMVCProject\\Views\\Shared\\Components\\_AdminScriptComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_AdminScriptComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:56:08.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿@model ArchiNestCoreMVCProject.Entities.Field
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Add New Field</h4>
+            <form class="forms-sample" method="post" asp-action="Add" asp-controller="AdminField">
+
+                <div class="form-group">
+                    <label>Field Name</label>
+                    <input type="text" class="form-control" placeholder="Field Name" asp-for="FieldName">
+                </div>
+               
+                <button type="submit" class="btn btn-primary me-2">Add</button>
+            </form>
+        </div>
+    </div>
+</div>
+

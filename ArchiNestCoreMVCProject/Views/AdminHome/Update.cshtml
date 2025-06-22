@@ -1,0 +1,29 @@
+﻿@model ArchiNestCoreMVCProject.Entities.Home
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Update Home Page</h4>
+            <form class="forms-sample" method="post" asp-action="Update" asp-controller="AdminHome">
+
+                <input type="hidden" asp-for="HomeId" class="form-control" />
+
+                <div class="form-group">
+                    <label>Title</label>
+                    <input type="text" class="form-control" placeholder="Title" asp-for="Title">
+                </div>
+                <div class="form-group">
+                    <label>Subtitle</label>
+                    <input type="text" class="form-control" placeholder="Subtitle" asp-for="Subtitle">
+                </div>
+               
+                <button type="submit" class="btn btn-primary me-2">Update</button>
+            </form>
+        </div>
+    </div>
+</div>

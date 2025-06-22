@@ -1,0 +1,46 @@
+﻿@model ArchiNestCoreMVCProject.Entities.About
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Update About Page</h4>
+            <form class="forms-sample" method="post" asp-action="Update" asp-controller="AdminAbout">
+
+                <input type="hidden" asp-for="AboutId" class="form-control" />
+
+                <div class="form-group">
+                    <label>Title</label>
+                    <input type="text" class="form-control" placeholder="Title" asp-for="Title">
+                </div>
+                <div class="form-group">
+                    <label>Description</label>
+                    <input type="text" class="form-control" placeholder="Short Description" asp-for="Description1">
+                </div>
+
+                <div class="form-group">
+                    <label>Subdescription</label>
+                    <input type="text" class="form-control" placeholder="Full Description" asp-for="Description2">
+                </div>
+
+                <div class="form-group">
+                    <label>Image URL</label>
+                    <input type="text" class="form-control" placeholder="Image URL" asp-for="ImageUrl">
+                </div>
+
+                <div class="form-group">
+                    <label>Video URL</label>
+                    <input type="text" class="form-control" placeholder="Video URL" asp-for="VideoUrl">
+                </div>
+
+                <button type="submit" class="btn btn-primary me-2">Update</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

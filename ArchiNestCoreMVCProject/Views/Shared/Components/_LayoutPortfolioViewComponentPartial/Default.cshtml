@@ -1,0 +1,41 @@
+﻿@model List<ArchiNestCoreMVCProject.Entities.Portfolio>
+@{
+	var list = Model;
+}
+
+<section id="features" class="features section">
+	<div class="container">
+
+		<ul class="nav nav-tabs row d-flex" data-aos="fade-up" data-aos-delay="100">
+			@for (int i = 0; i < list.Count; i++)
+			{
+				var item = list[i];
+				<li class="nav-item col-3">
+					<a class="nav-link @(i == 0 ? "active show" : "")" data-bs-toggle="tab" data-bs-target="#features-tab-@i">
+						<i class="bi bi-binoculars"></i>
+						<h4 class="d-none d-lg-block">@item.Title</h4>
+					</a>
+				</li>
+			}
+		</ul><!-- End Tab Nav -->
+
+		<div class="tab-content" data-aos="fade-up" data-aos-delay="200">
+			@for (int i = 0; i < list.Count; i++)
+			{
+				var item = list[i];
+				<div class="tab-pane fade @(i == 0 ? "active show" : "")" id="features-tab-@i">
+					<div class="row">
+						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+							<h3>@item.FullTitle</h3>
+							<p>@item.Description</p>
+						</div>
+						<div class="col-lg-6 order-1 order-lg-2 text-center">
+							<img src="@item.ImageUrl" alt="" class="img-fluid">
+						</div>
+					</div>
+				</div>
+			}
+		</div>
+
+	</div>
+</section>

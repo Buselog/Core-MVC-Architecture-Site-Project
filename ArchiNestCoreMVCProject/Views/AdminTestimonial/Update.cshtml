@@ -1,0 +1,42 @@
+﻿@model ArchiNestCoreMVCProject.Entities.Testimonial
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Update Testimonial Page</h4>
+            <form class="forms-sample" method="post" asp-action="Update" asp-controller="AdminTestimonial">
+
+                <input type="hidden" asp-for="TestimonialId" class="form-control" />
+
+                <div class="form-group">
+                    <label>Name</label>
+                    <input type="text" class="form-control" placeholder="Name" asp-for="Name">
+                </div>
+                <div class="form-group">
+                    <label>Title</label>
+                    <input type="text" class="form-control" placeholder="Title" asp-for="Title">
+                </div>
+                <div class="form-group">
+                    <label>Rating</label>
+                    <input type="text" class="form-control" placeholder="Rating" asp-for="Rating">
+                </div>
+                <div class="form-group">
+                    <label>Description</label>
+                    <input type="text" class="form-control" placeholder="Description" asp-for="Description">
+                </div>
+
+                <div class="form-group">
+                    <label>Image URL</label>
+                    <input type="text" class="form-control" placeholder="Image URL" asp-for="ImageUrl">
+                </div>
+
+                <button type="submit" class="btn btn-primary me-2">Update</button>
+            </form>
+        </div>
+    </div>
+</div>
+
